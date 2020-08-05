@@ -1,0 +1,58 @@
+
+int main( int argc, char *argv[] ){ 
+	if( argc<3 ){
+		///printf( "\n%i\n", argc );printf( "%s\n", argv[0] );system( "PAUSE" );
+		exit(0);
+	}
+	HZIP hz = NULL; 
+	HANDLE hf = NULL; 
+	DWORD writ = 0; 
+	ZIPENTRY ze = {0}; 
+	TCHAR m[1024] = {0};
+
+
+  
+	char* BFile = (char*)malloc( 1024 );
+	strcpy( BFile, argv[1] );	
+	char* BDir = (char*)malloc( 1024 );
+	strcpy( BDir, argv[2] );	
+
+  int icnty = 0;
+  icnty++;
+/// /////////////////////////////////////////////////////////////////////////////////////
+            hz = OpenZip(((const TCHAR *)BFile),0);
+			
+  if( hz==NULL ){
+	  exit( -1 );
+  }
+  if( SetUnzipBaseDir(hz,(const TCHAR *)BDir)!=0 ){
+	  exit( -2 );
+  }
+	 if( GetZipItem(hz,-1,&ze) ){
+		 exit( -3 );
+	 }
+ int numitems=ze.index;
+  for (int zi=0; zi<numitems; zi++){
+	  if( GetZipItem(hz,zi,&ze)!=0 ){
+		  exit( -4 );
+	  }
+		if( UnzipItem(hz,zi,ze.name)!=0 ){
+			exit( -5 );
+		}
+  }
+  CloseZip(hz);
+
+
+
+
+  return 0;
+  /// /////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+}
+
+

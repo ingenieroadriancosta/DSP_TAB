@@ -1,0 +1,34 @@
+#include "SERIAL_ALL.cpp"
+
+#include "resource_DSP_TAB.h"
+BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam);
+DWORD WINAPI Call_ThreadConn( LPVOID );
+DWORD WINAPI Call_ThreadCmd( LPVOID );
+DWORD WINAPI Call_ThreadPlot( LPVOID );
+DWORD WINAPI Call_ThreadDSPProcs( LPVOID );
+DWORD WINAPI Call_Progress( LPVOID );
+DWORD WINAPI Call_LoadInit( LPVOID );
+BOOL CALLBACK DlgPortsSel(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam);
+BOOL CALLBACK DlgPortsSelSIMUL(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam);
+BOOL CALLBACK DlgProgress(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam);
+BOOL FDESIGN( HWND HW_Fath, VOID* FdsnC );
+BOOL FWINDOWING( HWND HW_Fath, VOID* FdsnC );
+BOOL FSPECTOGRAM( HWND HW_Fath, VOID* FdsnC );
+BOOL SIGNAL_CENTER( HWND HW_Fath, VOID* FdsnC );
+BOOL CALLBACK DlgProc_Proc_1D_TAD(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam);
+BOOL CALLBACK DlgProc_Proc_ABOUT(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam);
+BOOL CALLBACK DlgProc_Proc_SAVE_ADV(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam);
+DWORD WINAPI RECSIMUL( LPVOID pv=NULL );
+
+
+
+
+
+
+
+
+
+
+
+
+

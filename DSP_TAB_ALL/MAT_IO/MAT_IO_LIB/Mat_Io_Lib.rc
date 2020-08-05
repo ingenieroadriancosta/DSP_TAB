@@ -1,0 +1,9 @@
+#include <windows.h>
+#include "libmatio.h"
+AFILES_ZIP          RCFILE              "E:\\AIIF\\SegAll\\CONOCIMIENTO\\UNIVERSIDAD\\TESIS\\P_NUEVO\\APLICACIONES\\TLAB\\DSP_LAB\\DSP_TAB\\DSP_TAB_ALL\\MAT_IO\\MAT_IO_LIB\\FILES2WRITE\\AFILES.zip"
+LIBUNZIP_DLL        RCFILE              "E:\\AIIF\\SegAll\\CONOCIMIENTO\\UNIVERSIDAD\\TESIS\\P_NUEVO\\APLICACIONES\\TLAB\\DSP_LAB\\DSP_TAB\\DSP_TAB_ALL\\MAT_IO\\MAT_IO_LIB\\DLL_UNZIP\\examples\\test\\Release\\test.exe"
+
+
+
+
+

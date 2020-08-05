@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1532322187 source:e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\mat_io\main.cpp
+	"Mat_Io_Lib\Mat_Io_Lib.cpp"
+
+1532325298 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\mat_io\mat_io_lib\mat_io_lib.cpp
+	"struct_mat_io.cpp"
+
+1532324929 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\mat_io\mat_io_lib\libmatio.cpp
+
+1532325274 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\mat_io\mat_io_lib\zlib1.cpp
+
+1532404317 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\mat_io\mat_io_lib\struct_mat_io.cpp
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<direct.h>
+	<sys/stat.h>
+	"libmatio.h"
+	"matio.h"
+
+1122531680 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\mat_io\mat_io_lib\zip\unzip.h
+
+1386224319 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\mat_io\mat_io_lib\matio.h
+	<stdlib.h>
+	<stdio.h>
+	"matio_pubconf.h"
+	<stdarg.h>
+
+1386224320 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\mat_io\mat_io_lib\matio_pubconf.h
+	<inttypes.h>
+	<stdint.h>
+
+1532399503 source:e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\mat_io\mat_io_lib\mat_io_lib.rc
+	<windows.h>
+	"libmatio.h"
+
+1532400681 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\mat_io\mat_io_lib\libmatio.h
+
+1532405928 source:e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\main.cpp
+	"Mat_Io_Lib\Mat_Io_Lib.cpp"
+
+1532325298 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\mat_io_lib.cpp
+	"struct_mat_io.cpp"
+
+1532405916 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\struct_mat_io.cpp
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<direct.h>
+	<sys/stat.h>
+	"libmatio.h"
+	"matio.h"
+
+1532400681 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\libmatio.h
+
+1386224319 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\matio.h
+	<stdlib.h>
+	<stdio.h>
+	"matio_pubconf.h"
+	<stdarg.h>
+
+1386224320 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\matio_pubconf.h
+	<inttypes.h>
+	<stdint.h>
+
+1532399503 source:e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\mat_io_lib.rc
+	<windows.h>
+	"libmatio.h"
+

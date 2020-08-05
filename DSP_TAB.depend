@@ -1,0 +1,257 @@
+# depslib dependency file v1.0
+1545022903 source:e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\main.cpp
+	"DSP_TAB_ALL\DSP_TAB_MAIN.cpp"
+	"PruebVari.cpp"
+	"PLOTMAIN.cpp"
+
+1446667744 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\resource.h
+
+1530847634 source:e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1567747399 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\dsp_tab_main.cpp
+	<windows.h>
+	<shlwapi.h>
+	<commctrl.h>
+	<stdio.h>
+	"Many_Funcs.h"
+	"includes_DSP_TAB.h"
+	"FDESIGN\TYPES_FDESIGN.cpp"
+	"Dlg_Proc_BIG.cpp"
+	"InitDlg.cpp"
+	"CmdProcs.cpp"
+	"ThreadConn.cpp"
+	"All_Threads.cpp"
+	"ThreadPlot.cpp"
+	"ThreadDSPProcs.cpp"
+	"ThreadDSPProcsN.cpp"
+	"DSPProc0.cpp"
+	"SAVEPROCS\SaveProc.cpp"
+	"SAVEPROCS\GetChannelProc.cpp"
+	"FDESIGN\FDESIGN.cpp"
+	"DlgProc_Proc_1D_TAD.cpp"
+	"DLG_TAD_Save_FRest.cpp"
+	"RECSIMUL.cpp"
+
+1446667744 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\resource.h
+
+1530858885 source:e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535360221 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\includes_dsp_tab.h
+	"SERIAL_ALL.cpp"
+	"resource_DSP_TAB.h"
+
+1535339022 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\serial_all.cpp
+	"Av_Ports.cpp"
+
+1535167866 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\av_ports.cpp
+
+1543306564 source:e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\resource_dsp_tab.rc
+	<windows.h>
+	<commctrl.h>
+	"resource_DSP_TAB.h"
+	"MAT_IO\MAT_IO_LIB\Mat_Io_Lib.rc"
+	<windows.h>
+	"menu.rc"
+
+1543306075 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\resource_dsp_tab.h
+
+1536459768 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\initdlg.cpp
+
+1535352752 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\dlg_proc_big.cpp
+
+1535343347 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\threadconn.cpp
+
+1535362539 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\cmdprocs.cpp
+
+1541477188 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\many_funcs.h
+	"IMLIB.h"
+	"WINAPI_FUNCS.cpp"
+	"E:\AIIF\SegAll\CONOCIMIENTO\UNIVERSIDAD\TESIS\P_NUEVO\APLICACIONES\TLAB\DSP_LAB\DSP_TAB\DSP_TAB_ALL\MAT_IO\MAT_IO_LIB\struct_mat_io.cpp"
+	"Utilities.cpp"
+	"CONTROLES\ImageButton.cpp"
+	"PLOT_CLASS\INCLUDE_PLOT_CLASS.h"
+
+1407568646 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\imlib.h
+
+1532862277 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\controles\imagebutton.cpp
+
+1531711441 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\controles\plotctrl.cpp
+
+1533559659 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\plot_class\include_plot_class.h
+	<math.h>
+	"LINE_COLORS.cpp"
+	"PLOT_CLASS.cpp"
+	"WProcCon.cpp"
+	"GRID_PROC.cpp"
+	"PLOTSHORT.cpp"
+	"PLOT_U_SHORT.cpp"
+	"PLOTSHORT3.cpp"
+	"PLOTDOUBLE.cpp"
+
+1533973636 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\plot_class\line_colors.cpp
+
+1536461072 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\plot_class\plot_class.cpp
+
+1343611456 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\plot_class\wprocs.cpp
+	"WProcCon.cpp"
+
+1535452843 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\plot_class\wproccon.cpp
+
+1534146017 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\plot_class\grid_proc.cpp
+
+1533696953 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\plot_class\plotshort.cpp
+
+1532429242 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\recsimul.cpp
+
+1535349635 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\threadplot.cpp
+
+1536461032 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\plot_class\plot_u_short.cpp
+
+1388166598 c:\program files (x86)\matlab\r2014a\extern\include\mat.h
+	<stdio.h>
+	"matrix.h"
+
+1388166560 c:\program files (x86)\matlab\r2014a\extern\include\matrix.h
+	<stdlib.h>
+	<stddef.h>
+	"tmwtypes.h"
+	<assert.h>
+
+1388167642 c:\program files (x86)\matlab\r2014a\extern\include\tmwtypes.h
+	<limits.h>
+	<stdbool.h>
+	<float.h>
+	<stddef.h>
+
+1388166860 c:\program files (x86)\matlab\r2014a\extern\include\mex.h
+	"matrix.h"
+	"version.h"
+	"matrix.h"
+	<stdio.h>
+
+1534909021 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\struct_mat_io.cpp
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<direct.h>
+	<sys/stat.h>
+	<time.h>
+	"libmatio.h"
+	"matio.h"
+	"fftw3.h"
+
+1532418083 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\libmatio.h
+
+1532411193 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\matio.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+
+1386224320 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\matio_pubconf.h
+	<inttypes.h>
+	<stdint.h>
+
+1532411539 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\mat_io_lib.rc
+	<windows.h>
+	"libmatio.h"
+
+1532411539 source:e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\mat_io_lib.rc
+	<windows.h>
+	"libmatio.h"
+
+1122531680 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\dll_unzip\unzip.h
+
+1122530942 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\dll_unzip\zip.h
+
+1510541844 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\mat_io\mat_io_lib\fftw3.h
+	<stdio.h>
+	<stddef.h>
+
+1534751967 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\plot_class\plotshort3.cpp
+
+1535434660 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\recsimul.cpp
+	"VarHeart.cpp"
+
+1534911983 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\threaddspprocs.cpp
+
+1534475087 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\utilities.cpp
+
+1534315859 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\all_threads.cpp
+
+1532763295 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\dlgproc_proc_1d.cpp
+
+1567747372 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\dlgproc_proc_1d_tad.cpp
+
+1535366040 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\dspproc0.cpp
+
+1534837905 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\threaddspprocsn.cpp
+
+1532927827 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\pruebvari.cpp
+
+1534301821 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\dlg_tad_save_frest.cpp
+
+1535366955 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\fdesign\fdesign.cpp
+
+1535362412 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\fdesign\types_fdesign.cpp
+	"FILTERS_FUNCS.cpp"
+
+1533282725 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\fdesign\filters_funcs.cpp
+	"conv.cpp"
+	"butter.cpp"
+
+1534069061 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\winapi_funcs.cpp
+
+1533115880 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\plot_class\plotdouble.cpp
+
+1533282806 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\fdesign\conv.cpp
+
+1533282789 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\fdesign\butter.cpp
+	<math.h>
+	<ctype.h>
+
+1533366080 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\plotmain.cpp
+
+1533392329 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\varheart.cpp
+
+1535250425 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\menu.rc
+
+1534384616 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\saveproc.cpp
+
+1534660156 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\saveprocs\saveproc.cpp
+
+1537967178 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\saveprocs\getchannelproc.cpp
+
+1541477157 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\mat_io\mat_io_lib\mat_io_lib.rc
+	<windows.h>
+	"libmatio.h"
+
+1543306082 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\mat_io\mat_io_lib\libmatio.h
+
+1543306296 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\mat_io\mat_io_lib\struct_mat_io.cpp
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<direct.h>
+	<sys/stat.h>
+	<time.h>
+	"libmatio.h"
+	"matio.h"
+	"fftw3.h"
+
+1532411193 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\mat_io\mat_io_lib\matio.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+
+1510541844 e:\aiif\segall\conocimiento\universidad\tesis\p_nuevo\aplicaciones\tlab\dsp_lab\dsp_tab\dsp_tab_all\mat_io\mat_io_lib\fftw3.h
+	<stdio.h>
+	<stddef.h>
+
